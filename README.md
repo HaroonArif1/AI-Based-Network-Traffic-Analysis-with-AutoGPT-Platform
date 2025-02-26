@@ -1,4 +1,4 @@
-# AI-Based Network Traffic Analysis with AutoGPT Platform
+# AI-Based Network Packet Traffic Capture Analysis with AutoGPT Platform
 [![Docker](https://img.shields.io/badge/Docker-Supported-blue.svg)](https://www.docker.com/)
 [![Python](https://img.shields.io/badge/Python-3.10+-brightgreen.svg)](https://www.python.org/)
 [![License](https://img.shields.io/badge/License-MIT-blue.svg)](LICENSE)
